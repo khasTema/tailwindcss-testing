@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cc94f2a.css",
+    "main.js": "/static/js/main.d59cd616.js",
+    "static/media/scrimba-logo.svg": "/static/media/scrimba-logo.072e6e757ec11767515f068b053a182c.svg",
+    "static/media/mobile-icon.svg": "/static/media/mobile-icon.cb0214376df6dddfee1cce98410e3c12.svg",
+    "static/media/developer-icon.svg": "/static/media/developer-icon.cf5d77622cb92ca379feee422728fc2e.svg",
+    "index.html": "/index.html",
+    "static/media/css-icon.svg": "/static/media/css-icon.51db69d6e3eebb1559a059dec077a32a.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.bd489a1ceff36bff89c6bd8a2acae56a.svg",
+    "main.3cc94f2a.css.map": "/static/css/main.3cc94f2a.css.map",
+    "main.d59cd616.js.map": "/static/js/main.d59cd616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cc94f2a.css",
+    "static/js/main.d59cd616.js"
+  ]
+}
